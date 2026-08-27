@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { ChevronDown, Menu, X } from "lucide-react";
-import heroVideo from "@/assets/flowpath-hero-pink.mp4.asset.json";
 
 type NavItem = {
   label: string;
@@ -14,7 +13,7 @@ const NAV_ITEMS: NavItem[] = [
   { label: "Plans" },
 ];
 
-const VIDEO_URL = heroVideo.url;
+const VIDEO_URL = "/assets/flowpath-hero-pink.mp4";
 
 const FONT_URL =
   "https://db.onlinewebfonts.com/c/08e020de1811ec4489f82d1247a42c09?family=Helvetica+Now+Text";
