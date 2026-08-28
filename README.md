@@ -1,4 +1,4 @@
-# Pink Petal Flow
+# Pink Flow
 
 A cinematic, full-screen floral landing experience built with React, TypeScript, TanStack Start, and Tailwind CSS.
 
